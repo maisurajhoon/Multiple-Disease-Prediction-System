@@ -1,6 +1,5 @@
 import pickle
 import streamlit as st
-from tensorflow import keras
 from streamlit_option_menu import option_menu
 from tensorflow.keras.models import load_model 
 from PIL import Image
